@@ -43,6 +43,14 @@ https://github.com/moderohan97/Devops-Project-Full-CICD-Steps.git
   ![Entered Values and Result](Images/5%20Final%20Webpage%20after%20submit.png)
 
 
+## License and Copyright
+
+__© Rohan Mode__
+
+Licenced under the [MIT License](LICENSE).
+
+
+
 
 
 **Please do ⭐ the repository, if it helped you in anyway.**
